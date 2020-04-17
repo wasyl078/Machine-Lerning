@@ -4,7 +4,9 @@ For now there are two simple (but as I hope interestingly made) files.
 
 LRWOV is Linear Regression With One Variable - my implementation of this problem. I have written this code as clearly as it was possible to check out.
 
-MNK is Polynomial Regression With One Variable (without and also with regularization) - this is some kind of test: how will algorithm behave if we will remove 2 of 10 alements from the data set.
+PRWOV is Polynomial Regression With One Variable. I used Gradient Descent Method, it is not the fastes way to solve such equations, but it is anotherm example how You can suit your parameters to given data samples.
+
+MNK is Polynomial Regression With One Variable (without and also with regularization) - this is some kind of test: how will algorithm behave if we will remove 2 of 10 alements from the data set. Here I have used Noramal Equation.
 
 ## Technologies 
 For this moment I focus on creating all code in jupyter notebooks (Python 3.7) with numpy and matplotlib libraries. Some comments inside are written by using LaTeX.

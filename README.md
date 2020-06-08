@@ -11,7 +11,7 @@ For now there are four simple (but as I hope interestingly made) files.
 
 [Mutliclass Classification - kNN, NB, LR.ipynb](https://github.com/wasyl078/Machine-Lerning/blob/master/Mutliclass%20Classification%20-%20kNN%2C%20NB%2C%20LR.ipynb "Mutliclass Classification - kNN, NB, LR.ipynb") - I think, this is my most advanced code. Long story short: comparison of: k-Nearest Neighbours, Naive Bayess and Logistic Regression (both styles: Gradient Descent and Normal Equation). The problem: classification of points to four classes (depending on position x1 and x2 the point on plot should be green / red / blue / yellow). 
 
-08.06.2020 Update: I implemented another method: neural networks - but without using any third-party libraries like TensorFlow, just simple and basic 2 layers with 25 nodes each, nothing special for now.
+08.06.2020 Update: I implemented another method: neural network - but without using any third-party libraries like TensorFlow, just simple and basic 2 hidden layers with 25 nodes each, nothing special for now.
 
 ## Technologies 
 For now focus on writing down all code in jupyter notebooks (Python 3.7) with numpy and matplotlib libraries. Some comments inside are written by using LaTeX, just to have better view on what is going on there.

@@ -1,7 +1,7 @@
 
 # 😮 Machine Lerning
 This is my collection of Machine Lerning related codes and algorithms.
-For now there are four simple (but as I hope interestingly made) files.
+For now there are four simple (but as I hope interestingly made) files and one a little bit advanced directory with extra mini-projects.
 
 [Linear Regression With One Variable.ipynb](https://github.com/wasyl078/Machine-Lerning/blob/master/Linear%20Regression%20With%20One%20Variable.ipynb "Linear Regression With One Variable.ipynb") - this is very simple implementation of this problem. I have written this code as clearly as it was possible to check out. The main quaint thing is that there are also some extra lines on the plot, which represent how the computer adjusts the regression line.
 
